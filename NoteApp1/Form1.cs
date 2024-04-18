@@ -7,9 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using NoteApp1;
 
-namespace NoteAppUI
+namespace NoteApp1
 {
     public partial class Form1 : Form
     {
